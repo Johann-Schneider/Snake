@@ -1,8 +1,9 @@
-## Snake
+# Snake
 
 A simple Game coded with JavaScript. Control your snake with the arrow keys on your keyboard.
 
-How to play:
+### How to play:
+
 1. Download the code with:
    
    ```
