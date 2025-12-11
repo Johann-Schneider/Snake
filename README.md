@@ -1,6 +1,6 @@
 # Snake
 
-A simple Game coded with JavaScript. Control your snake with the arrow keys on your keyboard.
+A simple Game coded with JavaScript.
 
 ### How to play:
 
@@ -10,4 +10,5 @@ A simple Game coded with JavaScript. Control your snake with the arrow keys on y
    git clone https://github.com/Johann-Schneider/Snake.git
    ```
 3. Open the index.html file in your browser
-4. Enjoy playing!
+4. Control your snake with the arrow keys on your keyboard.
+5. Enjoy playing!
